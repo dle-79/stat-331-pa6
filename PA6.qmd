@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Nathan, Tyler, Dylan"
 format: html
 editor: visual
 self-contained: true
